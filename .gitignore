@@ -1,0 +1,16 @@
+# Node
+backend/node_modules/
+frontend/node_modules/
+
+# Env
+.env
+.env.local
+
+# Editor
+.vscode/
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
